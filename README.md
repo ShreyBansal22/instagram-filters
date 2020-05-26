@@ -1,0 +1,2 @@
+Prerequistes:
+dlib,numpy,opencv
